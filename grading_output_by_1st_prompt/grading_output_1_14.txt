@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Kod Milijevov automata autopu zavisi od trenutnog i narednih stanja",
+      "grade": 2,
+      "explanation": "The answer attempts to explain the difference between Moore's and Mealy's machines, but it is incorrect and lacks clarity. The explanation does not provide a clear differentiation between the two types of machines. Real-world examples of their applications could help in understanding the difference."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Ascii je osmobitni kod",
+      "grade": 3,
+      "explanation": "The answer partially addresses the purpose of ASCII codes by mentioning the number of bits used, but it lacks clarity and a complete explanation. Real-world examples of ASCII codes and their significance could enhance the answer."
+    },
+    {
+      "answer": "Feč, decode, exe i mem",
+      "grade": 2,
+      "explanation": "The answer attempts to list the categories of processor commands, but it is incorrect and lacks clarity. It does not provide a clear explanation of each category. Real-world examples of processor commands could enhance the answer."
+    },
+    {
+      "answer": "Instrukcioni registri pamte instrukcije dok counter pamete stanje brojaca",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register, but it lacks clarity and detail. Real-world examples of how these registers are used in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "Softversko inžinjerstvo se bavi svim fazama stvaranja softvera",
+      "grade": 4,
+      "explanation": "The answer partially addresses software engineering by mentioning its involvement in all phases of software creation, but it lacks clarity and detail in explaining the basic phases of software development. Real-world examples of each phase could enhance the answer."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Prenos podataka je purpose",
+      "grade": 2,
+      "explanation": "The answer attempts to explain the purpose of a bus, but it is incorrect and lacks clarity. It does not provide a clear understanding of the bus and its signals. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "Na eminina pitanja ne odgovaram hahaha",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    }
+  ]
+}
+

@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore machines have outputs determined solely by the current state, while Mealy machines consider both the current state and input to determine their outputs.",
+      "grade": 9,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines. It is concise and effectively highlights the key difference between the two types of machines."
+    },
+    {
+      "answer": "Simpler arithmetic and single representation of zero",
+      "grade": 6,
+      "explanation": "The answer correctly mentions simpler arithmetic as a reason for the superiority of two's complement. However, it lacks clarity in explaining the single representation of zero. Real-world scenarios could be provided to illustrate the advantages of two's complement over one's complement."
+    },
+    {
+      "answer": "Discretization and quantization are performed to convert continuous analog sound signals into a digital format suitable for computer representation, storage, and processing. This process is necessary due to the discrete nature of digital systems, practical limitations in storage and processing, and the need for efficient transmission and storage of data.",
+      "grade": 10,
+      "explanation": "The answer provides a comprehensive explanation of why discretization and quantization are necessary when representing sound in a computer. It effectively covers the reasons for this process and its significance in digital sound representation."
+    },
+    {
+      "answer": "The purpose of ASCII codes is to represent characters in digital systems, and one ASCII code is represented using 7 bits.",
+      "grade": 7,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "Processor commands are categorized into data transfer (moving data between registers and memory), arithmetic/logic (performing mathematical and logical operations), and control instructions (managing program flow).",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "The Instruction Register (IR) holds the current instruction for execution, providing a temporary storage for opcode and relevant information. The Program Counter (PC) keeps track of the memory address for the next instruction, ensuring sequential fetching and execution.",
+      "grade": 9,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance.",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "bus serves as a communication pathway for data, addresses, and control signals among different components in a computer system, facilitating their coordinated functioning",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "http://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

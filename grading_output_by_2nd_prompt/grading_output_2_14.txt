@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Kod Milijevov automata autopu zavisi od trenutnog i narednih stanja",
+      "grade": 2,
+      "explanation": "The answer attempts to differentiate between Moore's and Mealy's machines, but it is unclear and lacks accuracy. Real-world examples of their applications could help in understanding the concept better."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Ascii je osmobitni kod",
+      "grade": 3,
+      "explanation": "The answer provides a partial understanding of ASCII codes but lacks clarity and accuracy. It incorrectly states that ASCII is an 8-bit code. Real-world examples of ASCII usage could enhance the explanation."
+    },
+    {
+      "answer": "Feč, decode, exe i mem",
+      "grade": 1,
+      "explanation": "The answer is unclear and lacks accuracy in explaining the categories of processor commands. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instrukcioni registri pamte instrukcije dok counter pamete stanje brojaca",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register, but it lacks clarity and accuracy. Real-world examples of how these registers are used in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "Softversko inžinjerstvo se bavi svim fazama stvaranja softvera",
+      "grade": 4,
+      "explanation": "The answer provides a general understanding of software engineering but lacks detail and accuracy in explaining the phases of software development. Real-world examples of each phase could enhance the explanation."
+    },
+    {
+      "answer": "No idea",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Prenos podataka je purpose",
+      "grade": 2,
+      "explanation": "The answer is unclear and lacks accuracy in explaining the purpose of a bus and the signals transmitted through it. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "Na eminina pitanja ne odgovaram hahaha",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    }
+  ]
+}
+

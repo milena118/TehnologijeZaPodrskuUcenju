@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "The output of Moore's machine depends on the current state and the input, while Mealy's machine depends only on the current state.",
+      "grade": 4,
+      "explanation": "The answer provides a partial understanding of the difference between Moore's and Mealy's machines. It lacks clarity and detail in explaining the concept. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "Easier addition and easier substraction.",
+      "grade": 2,
+      "explanation": "The answer provides a very brief and incomplete explanation of the superiority of two's complement over one's complement. It lacks clarity and understanding of the concept. Real-world scenarios could be provided to illustrate the significance of two's complement."
+    },
+    {
+      "answer": "Because for the further work we need signal in digital form, not analog.",
+      "grade": 3,
+      "explanation": "The answer provides a basic understanding of the purpose of discretization-quantization in sound representation. However, it lacks clarity and detail in explaining the concept. Real-world examples of sound representation in digital form could enhance the explanation."
+    },
+    {
+      "answer": "ASCII's purpose is representation of characters in coding, one code has 8 bits.",
+      "grade": 5,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "Data commands, control commands and arithmetic-logical commands.",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register is for the instruction currently executing, while the counter register is for the memory address of the instruction that is next to be executed.",
+      "grade": 8,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "Software engineering is an engineering discipline that deals with the production of software products and consists of phases: planning, design, programming, testing, writing user manuals, sales, and maintenance.",
+      "grade": 3,
+      "explanation": "The answer provides a very brief and incomplete explanation of software engineering and its phases. It lacks clarity and understanding of the concept. Real-world examples of software engineering phases could enhance the explanation."
+    },
+    {
+      "answer": "BCD stands for Binary Coded Decimal and it is system where one digit from decimal system is represented with its binary representation. 873 is 100000110111 in BCD.",
+      "grade": 2,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is the main communication pathway.",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus but lacks clarity and detail in explaining its specific role and the signals transmitted through it. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "http://cs.elfak.ni.ac.rs/II_godina/spisak_studenta.html",
+      "grade": 7,
+      "explanation": "The answer provides the URL address for the given page, including the domain, directory, and page name. It is accurate, but there is a minor typo in the page name. It should be \"spisak_studenata.html\" instead of \"spisak_studenta.html\"."
+    }
+  ]
+}
+

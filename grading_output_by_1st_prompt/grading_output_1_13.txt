@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore's machine depends on the current state, while Mealy's machine depends on the both current state and input.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the difference between Moore's and Mealy's machines. However, it could be improved by providing more details and real-world examples of their applications."
+    },
+    {
+      "answer": "Zero is represented in only one way, and operations have less steps.",
+      "grade": 4,
+      "explanation": "The answer correctly mentions the representation of zero and the efficiency of operations using two's complement. However, it lacks clarity and explanation of the first reason. Real-world scenarios could be provided to illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "Because continuous values from the real world need to be represented as bits for the computer to process them.",
+      "grade": 8,
+      "explanation": "The answer provides a clear and accurate explanation of why discretization-quantization is done when representing sound in a computer. Real-world examples of sound representation could enhance the explanation."
+    },
+    {
+      "answer": "Character representation. 8b",
+      "grade": 6,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about ASCII codes and their significance in modern computing."
+    },
+    {
+      "answer": "/",
+      "grade": 2,
+      "explanation": "The answer does not provide a clear explanation of the categories of processor commands. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "One of them (I think instruction) holds the current instruction, and the other holds the next instruction to be executed.",
+      "grade": 8,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register. Real-world examples of how these registers are used in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "100001110011",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "A bus is a pathway between computer components used for the transfer of data, addresses, and control signals.",
+      "grade": 8,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II-godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

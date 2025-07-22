@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "only one way to represent zero and addition has less steps",
+      "grade": 3,
+      "explanation": "The answer attempts to provide reasons for the superiority of two's complement over one's complement, but it lacks clarity and explanation. Real-world examples could be used to illustrate the advantages of two's complement."
+    },
+    {
+      "answer": "because computer use bits to work with so we must translate natural signal to digital",
+      "grade": 5,
+      "explanation": "The answer partially explains the purpose of discretization-quantization in sound representation, but it lacks clarity and detail. Real-world examples could be used to illustrate the significance of this process in sound representation."
+    },
+    {
+      "answer": "they represent characters. 8 bits",
+      "grade": 6,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "in instruction register exists current command, in counter exists the next command to be executed",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register, but it lacks clarity and detail. Real-world examples of how these registers are used in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "100001110011",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "it is communication path for computer components",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus, but it lacks clarity and detail in explaining the specific signals transmitted through the bus. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "https://elfak.ni.ac.cs.rs/II_fodina/spisak_studenata.html",
+      "grade": 7,
+      "explanation": "The answer attempts to provide the URL address for the given page, but it contains a typo. The grade is given for the effort, but the accuracy is compromised."
+    }
+  ]
+}
+

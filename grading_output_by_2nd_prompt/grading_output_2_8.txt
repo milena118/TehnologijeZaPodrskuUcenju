@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "In Moore's machine, the next state depends solely on the current state, while in Mealy's machine, in addition to the current state, it also depends on what is present at the system's input.",
+      "grade": 9,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines. It is well articulated and demonstrates a good understanding of the concept."
+    },
+    {
+      "answer": "Unique representation of zero and simplified execution of arithmetic operations.",
+      "grade": 8,
+      "explanation": "The answer correctly identifies the advantages of using two's complement over one's complement for representing signed integers. However, it could be improved by providing a more detailed explanation and real-world examples of their applications."
+    },
+    {
+      "answer": "Because we need to represent sound in digital form, as a discretized signal, rather than analog.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of discretization-quantization in sound representation. However, it lacks clarity and detail in explaining the process. Real-world examples of sound representation in digital form could enhance the explanation."
+    },
+    {
+      "answer": "One ASCII code corresponds to one character. Initially, it used 7 bits, but later an additional one was added (I guess for parity), so now it consists of 8 bits.",
+      "grade": 7,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "There are data commands, arithmetic-logical, and control commands.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register holds the currently command, while the program counter holds the address of the next instruction.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register. However, it could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "Software engineering involves developing software either on demand or independently for sale. The process begins with software planning, creating plans and documentation, coding, testing the software, and finally delivering it to users along with user instructions.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of software engineering and the software development phases. However, it lacks detail and explanation of each phase. Real-world examples of software engineering processes could enhance the explanation."
+    },
+    {
+      "answer": "BCD is binary coded decimal system, and every digit is represented for itself. For example, 873 would be 1000 0011 0111.",
+      "grade": 3,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873, but it lacks accuracy and clarity. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "A bus is the main communication pathway among all parts of the system. It transmits data, addresses, and control signals.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "http:/cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 2,
+      "explanation": "The answer attempts to provide the URL address but contains a syntax error and lacks completeness. It needs improvement in accuracy and clarity."
+    }
+  ]
+}
+

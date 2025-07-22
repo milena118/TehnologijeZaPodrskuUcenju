@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "In a Moore's machine, nodes represent the state and edges represent state change",
+      "grade": 4,
+      "explanation": "The answer provides a partial explanation of Moore's machine, but it lacks clarity and detail. It does not differentiate between Moore's and Mealy's machines. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "There is only one zero and math is easier",
+      "grade": 3,
+      "explanation": "The answer mentions some advantages of two's complement over one's complement, but it lacks clarity and explanation. Real-world scenarios could be provided to illustrate the superiority of two's complement."
+    },
+    {
+      "answer": "Because computers only recognize digital signals so the analogue signals have to be converted to digital",
+      "grade": 8,
+      "explanation": "The answer provides a clear and accurate explanation of why discretization-quantization of the value axis is done when representing sound in a computer. Real-world examples of sound representation could enhance the explanation."
+    },
+    {
+      "answer": "One ASCII code is represented using 7 bits. Its purpose is to encode the entire English alphabet and most commonly used symbols for computer representation",
+      "grade": 8,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "There are registry-registry operations witch use operands in CPU registers, then registry-memory where one operand is in registry and the other in memory, and finally memory-memory where both operands are in memory",
+      "grade": 3,
+      "explanation": "The answer provides a basic understanding of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register points at the location of the next instruction.",
+      "grade": 7,
+      "explanation": "The answer provides a clear explanation of the purpose of the instruction register. However, it lacks an explanation of the counter register. Real-world examples of how these registers are used in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "Software engineering is the discipline of developing and maintaining software efficiently. Phases are as follow: designing, where engineers come up with the architecture, then implementation, where the architecture is implemented, then testing, where the implementation is unit tested, and finally deployment, where software is used by the end user.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of software engineering and the phases in software development. However, it lacks detail and clarity in explaining each phase. Real-world examples of each phase could enhance the explanation."
+    },
+    {
+      "answer": "BCD encodes each element as its binary representation. Number 873 in BCD would be 1000 111 11",
+      "grade": 2,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is used for transferring data between computer components.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus, but it lacks detail and explanation of the specific signals transmitted through the bus. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

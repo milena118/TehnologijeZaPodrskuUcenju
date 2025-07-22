@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore's machine depends on the current state, while Mealy's machine depends on the both current state and input.",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of the difference between Moore's and Mealy's machines, but it lacks clarity and detail. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "Zero is represented in only one way, and operations have less steps.",
+      "grade": 3,
+      "explanation": "The answer partially explains the superiority of two's complement over one's complement, but it lacks clarity and detail. Real-world scenarios could be provided to illustrate the significance of two's complement."
+    },
+    {
+      "answer": "Because continuous values from the real world need to be represented as bits for the computer to process them.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of discretization-quantization in sound representation, but it lacks detail and explanation of the process. Real-world examples could be used to illustrate the need for this conversion."
+    },
+    {
+      "answer": "Character representation. 8b",
+      "grade": 2,
+      "explanation": "The answer is incomplete and lacks clarity in explaining the purpose of ASCII codes and the number of bits used. Real-world examples of ASCII usage could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "One of them (I think instruction) holds the current instruction, and the other holds the next instruction to be executed.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction and counter registers, but it lacks clarity and detail. Real-world examples of their usage could enhance the explanation."
+    },
+    {
+      "answer": "Software engineers create new software, starting with planning, design, testing, exploitation, and maintenance.",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of software engineering and the software development phases, but it lacks detail and explanation of each phase. Real-world examples could enhance the explanation."
+    },
+    {
+      "answer": "100001110011",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "A bus is a pathway between computer components used for the transfer of data, addresses, and control signals.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and the signals transmitted through it. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II-godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

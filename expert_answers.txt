@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Explain the difference between Moore's and Mealy's machine.",
+        "answer": "Moore's machine output depends only on the present state, while Mealy's machine output depends on both the present state and input."
+    },
+    {
+        "question": "List two reasons why representing signed integers using the method of two's complement is superior to representation using the method of one's complement.",
+        "answer": "Two's complement is favored over one's complement for signed integer representation due to its unique representation of zero and simplified arithmetic operations, making addition and subtraction straightforward."
+    },
+    {
+        "question": "Why is discretization-quantization of the value axis done when representing sound in a computer?",
+        "answer": "In computer sound representation, discretization involves converting continuous analog signals into discrete digital values. This process, known as quantization, allows for efficient storage and processing."
+    },
+    {
+        "question": "What is the purpose of ASCII codes? How many bits represent one ASCII code?",
+        "answer": "ASCII codes serve as a standardized character encoding system. Each ASCII code is typically represented using 7 or 8 bits, accommodating 128 or 256 characters, respectively."
+    },
+    {
+        "question": "List the categories of processor commands and briefly explain each category.",
+        "answer": "Processor commands can be categorized into two main types, each serving a specific function: - Arithmetic/Logic Commands: This category encompasses commands that perform mathematical and logical operations on data stored in registers. Arithmetic commands include addition, subtraction, multiplication, and division. Logic commands include operations like AND, OR, and NOT, manipulating binary data. - Control Commands: Control..."
+    },
+    {
+        "question": "What is the purpose of the instruction register, and what is the purpose of the counter register?",
+        "answer": "The instruction register holds the current instruction being executed, providing guidance to the processor. The counter register keeps track of the memory address of the next instruction to be fetched."
+    },
+    {
+        "question": "What is software engineering? List the basic phases in software development and briefly explain each of them.",
+        "answer": "Software engineering is a systematic and disciplined approach to developing, designing, testing, and maintaining software. The software development consists of several key phases: - Planning: In this initial phase, project goals, requirements, and constraints are identified. Key decisions such as project scope, budget, and timeline are established. Planning sets the foundation for the entire software development process. - Analysis: The software’s functionality is defined, requirements are gathered fr..."
+    },
+    {
+        "question": "Provide one weighted BCD code, and in this code, represent the number 873.",
+        "answer": "The Binary-Coded Decimal (BCD) is a positional numeral system with a base of 10 in which each decimal digit is encoded using a binary alphabet (or replaced with binary words). Representing the number 873 in BCD-8421 code (the most common code) involves the binary representation 1000 0011 0111. \n9."
+    },
+    {
+        "question": "What is a bus, and what is its purpose? Which signals are transmitted through the bus?",
+        "answer": "A bus is a shared communication path to which a larger number of components are connected, and the data transmitted by one component is available for reception by all other components connected to the bus. Through the bus, three signal groups can be transmitted: data, addresses, and control signals."
+    },
+    {
+        "question": "Write the URL address of the page \"spisak_studenata.html\" located in the directory \"II_godina\", belonging to the domain \"elfak.ni.ac.rs\", and hosted on \"cs\".",
+        "answer": "A URL for the page \"spisak_studenata.html\" in the directory \"II_godina\" on the host \"cs\" of the domain \"elfak.ni.ac.rs\" could look like this: `http://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html`."
+    }
+]

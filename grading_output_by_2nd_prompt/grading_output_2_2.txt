@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore machines have outputs associated with states, while Mealy machines have outputs associated with transitions, influenced by both current states and inputs.",
+      "grade": 9,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines. It is well articulated and demonstrates a good understanding of the concept."
+    },
+    {
+      "answer": "Simpler Arithmetic Operations: In two's complement, addition and subtraction of signed integers can be performed using the same circuitry as for unsigned integers. There is no need for a separate subtraction circuit, simplifying the design. One's complement requires additional logic for end-around carry and handling negative zero, making arithmetic operations more complex. Single Representation for Zero: Two's complement eliminates the issue of having two representations for zero (positive zero and negative zero) present in one's complement. This simplifies comparisons and avoids potential inconsistencies when manipulating zero in mathematical operations.",
+      "grade": 10,
+      "explanation": "The answer provides a comprehensive explanation of the superiority of two's complement over one's complement in representing signed integers. It is detailed, accurate, and well-supported with reasons and examples."
+    },
+    {
+      "answer": "discretization and quantization are essential steps to convert continuous sound waves into a digital format that can be stored, processed, and transmitted efficiently within the constraints of digital systems.",
+      "grade": 8,
+      "explanation": "The answer effectively explains the purpose of discretization and quantization in representing sound in a computer. It demonstrates a good understanding of the concept and its significance in digital systems."
+    },
+    {
+      "answer": "Its purpose is to provide a standardized way for computers to represent and exchange text information. 8 bits",
+      "grade": 6,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it lacks clarity and detail in explaining the significance of the 8 bits representation and could benefit from more elaboration."
+    },
+    {
+      "answer": "Processor commands can be broadly categorized into three main types:  Arithmetic Commands: These commands perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Examples include ADD (addition), SUB (subtraction), MUL (multiplication), and DIV (division). Arithmetic commands manipulate data stored in registers or memory locations. Control Flow Commands: These commands control the flow of execution within a program by altering the sequence of instructions. Examples include JMP (jump), JZ (jump if zero), JNE (jump if not equal), and CALL (call subroutine). Control flow commands are crucial for implementing loops, conditional statements, and function calls. Data Transfer Commands: These commands move data between registers, memory locations, and input/output devices. Examples include MOV (move), LOAD (load from memory), STORE (store to memory), and IN/OUT (input/output). Data transfer commands facilitate the movement of data within the processor and between the processor and external devices. These categories encompass the fundamental types of commands that processors execute to perform a wide range of tasks, from basic arithmetic calculations to managing program flow and handling data transfer operations.",
+      "grade": 9,
+      "explanation": "The answer provides a detailed and comprehensive explanation of the categories of processor commands. It effectively explains each category and their significance in processor operations."
+    },
+    {
+      "answer": "The instruction register holds the current instruction being executed by the CPU, facilitating its decoding and execution. The counter register (program counter) keeps track of the memory address of the next instruction to be fetched and executed, enabling the sequential execution of program instructions.",
+      "grade": 10,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It is accurate, concise, and provides a good understanding of their roles in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance.",
+      "grade": 2,
+      "explanation": "The answer does not correctly represent the number 873 in BCD and lacks clarity in explaining the BCD system. It demonstrates a lack of understanding of the concept and could benefit from real-world examples to illustrate its significance."
+    },
+    {
+      "answer": "bus in computing refers to a communication system that transfers data between components inside a computer or between multiple computers. Its purpose is to provide a communication pathway for the exchange of information between different parts of a computer system.  Signals transmitted through the bus include:  Address Bus: Carries the memory addresses of data being read from or written to. Determines the location in memory or I/O device. Data Bus: Transfers actual data between the CPU, memory, and peripherals. It carries the binary information being processed. Control Bus: Manages the synchronization and control signals for coordinating activities between different components. Signals include read and write control, interrupt requests, clock signals, and others. The bus acts as a communication highway, facilitating the flow of information between the CPU, memory, and other peripheral devices in a computer system. It enables the coordination and synchronization of data transfers, ensuring the proper functioning of the entire system.",
+      "grade": 10,
+      "explanation": "The answer provides a comprehensive explanation of the bus in computing, its purpose, and the signals transmitted through it. It demonstrates a clear understanding of the concept and its significance in computer systems."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html%0A",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

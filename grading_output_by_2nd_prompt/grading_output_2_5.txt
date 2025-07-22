@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "In a Moore's machine, nodes represent the state and edges represent state change",
+      "grade": 2,
+      "explanation": "The answer is incorrect as it does not explain the difference between Moore's and Mealy's machines. It lacks clarity and understanding of the concept. Real-world examples of Moore's and Mealy's machines could help in understanding the difference."
+    },
+    {
+      "answer": "There is only one zero and math is easier",
+      "grade": 3,
+      "explanation": "The answer provides a partial reason for the superiority of two's complement over one's complement. However, it lacks clarity and explanation of the concept. Real-world examples and a more detailed explanation could enhance the understanding of the topic."
+    },
+    {
+      "answer": "Because computers only recognize digital signals so the analogue signals have to be converted to digital",
+      "grade": 6,
+      "explanation": "The answer correctly identifies the need for discretization and quantization when representing sound in a computer. However, it could be improved by providing more details about the process and its significance in sound representation. Real-world examples could enhance the explanation."
+    },
+    {
+      "answer": "One ASCII code is represented using 7 bits. Its purpose is to encode the entire English alphabet and most commonly used symbols for computer representation",
+      "grade": 7,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "There are registry-registry operations witch use operands in CPU registers, then registry-memory where one operand is in registry and the other in memory, and finally memory-memory where both operands are in memory",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register points at the location of the next instruction.",
+      "grade": 4,
+      "explanation": "The answer provides an incomplete explanation of the purpose of the instruction register and does not mention the counter register. It lacks clarity and understanding of the concept. Real-world examples of these registers in processor operations could enhance the explanation."
+    },
+    {
+      "answer": "Software engineering is the discipline of developing and maintaining software efficiently. Phases are as follow: designing, where engineers come up with the architecture, then implementation, where the architecture is implemented, then testing, where the implementation is unit tested, and finally deployment, where software is used by the end user.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of software engineering and the phases of software development. However, it lacks detail and clarity in explaining each phase. Real-world examples of each phase could enhance the explanation."
+    },
+    {
+      "answer": "BCD encodes each element as its binary representation. Number 873 in BCD would be 1000 111 11",
+      "grade": 2,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873, but it is incorrect. It lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is used for transferring data between computer components.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus but lacks detail in explaining the specific signals transmitted through the bus. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore machine's output only depends on the current state, Mealy machine's output depends on the current state and input.",
+      "grade": 7,
+      "explanation": "The answer correctly identifies the difference between Moore's and Mealy's machines, but it lacks clarity and detail. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "When using method of two's complement there is only 1 representation for 0 whereas when using one's complement there are 2, one for +0 and one for -0 which in reality is a same number. Second reason is the fact that addition is simpler using two's complement as overflow bit is just ignored while it's carried back and added when using 1's complement.",
+      "grade": 8,
+      "explanation": "The answer provides a detailed explanation of the superiority of two's complement over one's complement. However, it could be improved by providing real-world examples to illustrate the significance of these reasons."
+    },
+    {
+      "answer": "Sound as a signal can have any value while computer cannot just produce any value, since it is a digital machine therefore it picks the value most similar to the real value of sound.",
+      "grade": 6,
+      "explanation": "The answer attempts to explain the purpose of discretization-quantization in sound representation, but it lacks clarity and detail. Real-world examples could help in understanding the significance of this process."
+    },
+    {
+      "answer": "ASCII code is a standardized way of coding symbols, since computers only understand 1s and 0s which can be represented with 1 bit we had to essentially come to an agreement and decide which sequence of bits represents which symbol (numbers, letters, interpunction, etc.). Seven bits represent one ASCII code.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of ASCII codes but lacks clarity and accuracy. It could be improved by explaining the significance of 7 or 8 bits in representing ASCII codes and their impact on modern computing."
+    },
+    {
+      "answer": "-Arithmetic commands: arithmetic operations between numbers represented in registers. -Logic commands: logical operations such as and, or, xor..  . -Control commands: influence the sequence of instructions that are being executed (conditional commands and jumps). -Input/Output commands: handle data input from devices such as mouse or keyboard and output of data on devices like monitors or printers.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction registers memorizes the instruction that is currently being executed, counter register memorizes the memory address of the instruction that is to be executed next.",
+      "grade": 9,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "1000 0111 0011",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is digital circuit tasked with transmitting signals through computer. There are 3 types of buses which transmit corresponding  signals: control buses, data buses, address buses.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

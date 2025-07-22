@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Unique representation of zero, simpler operations of addition and subtraction",
+      "grade": 7,
+      "explanation": "The answer correctly identifies one reason for the superiority of two's complement over one's complement. However, it lacks clarity and explanation of the second reason. Real-world scenarios could be provided to illustrate the significance of two's complement representation in computer systems."
+    },
+    {
+      "answer": "because we need to transform an analog signal to digital",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the purpose of discretization-quantization when representing sound in a computer. However, it could be improved by explaining the significance of this transformation in sound processing and providing real-world examples of its application."
+    },
+    {
+      "answer": "Representation of characters. 8 bits",
+      "grade": 8,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "Data commands, control and arithmetic commands",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register holds current instruction; counter register holds the next instruction to be executed",
+      "grade": 9,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "1000 0011 0111",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is a communication path, it is for transmitting data, control signals and addresses",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

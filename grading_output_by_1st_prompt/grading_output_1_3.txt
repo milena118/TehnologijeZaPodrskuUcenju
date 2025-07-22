@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Mealy's machine state depends on the input and current state, and Moore's only depends on current state",
+      "grade": 7,
+      "explanation": "The answer provides a basic differentiation between Moore's and Mealy's machines. However, it could be improved by providing more details and real-world examples of their applications."
+    },
+    {
+      "answer": "Because integers are more compact in two's complement",
+      "grade": 5,
+      "explanation": "The answer correctly mentions the compactness of integers in two's complement. However, it lacks a second reason and real-world scenarios to illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "Because states on computer can only be 0 or 1",
+      "grade": 3,
+      "explanation": "The answer is incorrect. Discretization-quantization is done to represent the continuous values of sound in a digital format, not because computer states can only be 0 or 1. Real-world examples of sound representation could help in understanding the need for discretization-quantization."
+    },
+    {
+      "answer": "It converts characters into computer readable code",
+      "grade": 6,
+      "explanation": "The answer partially explains the purpose of ASCII codes. It correctly mentions the conversion of characters but lacks the detail about the number of bits representing one ASCII code and the significance of extended ASCII. Real-world examples of ASCII usage could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 2,
+      "explanation": "No answer provided. The grade is low due to the lack of any explanation or information about the categories of processor commands."
+    },
+    {
+      "answer": "Instruction register stores the address code while the counter register stores the memory where the instruction is stored (what instruction is up next)",
+      "grade": 8,
+      "explanation": "The answer provides a clear explanation of the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "/",
+      "grade": 2,
+      "explanation": "No answer provided. The grade is low due to the lack of any explanation or representation of the BCD system and the number 873 in the BCD code."
+    },
+    {
+      "answer": "Bus is used so that individual components can communicate. Memory read, write, I/O commands are transmitted through it",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II_godina/spisak_studenata",
+      "grade": 9,
+      "explanation": "The answer is almost correct, but it is missing the '.html' extension in the URL address. Otherwise, it accurately provides the URL address for the given page, including the domain, directory, and page name."
+    }
+  ]
+}
+

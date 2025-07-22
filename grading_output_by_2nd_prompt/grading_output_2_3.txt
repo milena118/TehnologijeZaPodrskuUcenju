@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Mealy's machine state depends on the input and current state, and Moore's only depends on current state",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of the difference between Moore's and Mealy's machines, but it lacks clarity and detail. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "Because integers are more compact in two's complement",
+      "grade": 2,
+      "explanation": "The answer only partially addresses the question and lacks a comprehensive explanation. It fails to mention the unique representation of zero and simplified arithmetic operations in two's complement. Real-world examples could illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "Because states on computer can only be 0 or 1",
+      "grade": 1,
+      "explanation": "The answer is incorrect and does not demonstrate an understanding of the purpose of discretization-quantization when representing sound in a computer. Real-world examples could help in understanding the significance of this process."
+    },
+    {
+      "answer": "It converts characters into computer readable code",
+      "grade": 3,
+      "explanation": "The answer provides a very basic understanding of the purpose of ASCII codes but lacks detail and accuracy. It fails to mention the number of bits representing one ASCII code. Real-world examples could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Instruction register stores the address code while the counter register stores the memory where the instruction is stored (what instruction is up next)",
+      "grade": 8,
+      "explanation": "The answer provides a clear and accurate explanation of the purpose of the instruction register and the counter register. Real-world examples of how these registers are used in processor operations could further enhance the explanation."
+    },
+    {
+      "answer": "Software engineering is an engineering branch that deals with planning, creating and managing computer software",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of software engineering but lacks detail and accuracy. It fails to list and explain the basic phases in software development. Real-world examples could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Bus is used so that individual components can communicate. Memory read, write, I/O commands are transmitted through it",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and the signals transmitted through it. However, it lacks clarity and detail in explaining the specific role of each type of bus. Real-world examples of bus operations could enhance the explanation."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II_godina/spisak_studenata",
+      "grade": 9,
+      "explanation": "The answer provides the correct URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

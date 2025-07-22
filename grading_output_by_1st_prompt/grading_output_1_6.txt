@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore machine's output only depends on the current state, Mealy machine's output depends on the current state and input.",
+      "grade": 9,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines. It is well-explained and accurate, but it could be improved by providing real-world examples of their applications."
+    },
+    {
+      "answer": "When using method of two's complement there is only 1 representation for 0 whereas when using one's complement there are 2, one for +0 and one for -0 which in reality is a same number. Second reason is the fact that addition is simpler using two's complement as overflow bit is just ignored while it's carried back and added when using 1's complement.",
+      "grade": 8,
+      "explanation": "The answer correctly mentions the advantages of two's complement over one's complement in representing signed integers. It provides a good understanding of the topic, but it could be improved by providing real-world scenarios to illustrate the superiority of two's complement."
+    },
+    {
+      "answer": "Sound as a signal can have any value while computer cannot just produce any value, since it is a digital machine therefore it picks the value most similar to the real value of sound.",
+      "grade": 6,
+      "explanation": "The answer partially explains the purpose of discretization-quantization of the value axis when representing sound in a computer. It lacks clarity and detail in explaining the process. Real-world examples of sound representation in digital systems could enhance the explanation."
+    },
+    {
+      "answer": "ASCII code is a standardized way of coding symbols, since computers only understand 1s and 0s which can be represented with 1 bit we had to essentially come to an agreement and decide which sequence of bits represents which symbol (numbers, letters, interpunction, etc.). Seven bits represent one ASCII code.",
+      "grade": 5,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it lacks clarity and accuracy in explaining the representation of ASCII codes. Real-world scenarios could be provided to illustrate the significance of ASCII in modern computing."
+    },
+    {
+      "answer": "-Arithmetic commands: arithmetic operations between numbers represented in registers. -Logic commands: logical operations such as and, or, xor..  . -Control commands: influence the sequence of instructions that are being executed (conditional commands and jumps). -Input/Output commands: handle data input from devices such as mouse or keyboard and output of data on devices like monitors or printers.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction registers memorizes the instruction that is currently being executed, counter register memorizes the memory address of the instruction that is to be executed next.",
+      "grade": 9,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "BCD system is a way of representing a decimal number. One possible representation for 873 is: 1000 0111 0011",
+      "grade": 3,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "Bus is digital circuit tasked with transmitting signals through computer. There are 3 types of buses which transmit corresponding  signals: control buses, data buses, address buses.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

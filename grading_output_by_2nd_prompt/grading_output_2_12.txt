@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Easier arithmetic operations, and unique representation of zero",
+      "grade": 6,
+      "explanation": "The answer provides two reasons why two's complement is superior to one's complement, but it lacks clarity and explanation. Real-world examples could be used to illustrate the advantages of two's complement over one's complement."
+    },
+    {
+      "answer": "Because we have to represent analog signal as bits",
+      "grade": 3,
+      "explanation": "The answer is partially correct but lacks a complete explanation. It could be improved by providing more details about the process of discretization-quantization and its significance in sound representation in a computer."
+    },
+    {
+      "answer": "Ascii is for character representation, every character has its ascii code. 7 (newer 8) bits",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of ASCII codes and the number of bits used to represent them. However, it lacks clarity and detail. Real-world examples could be used to illustrate the significance of ASCII codes in modern computing."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "Instruction register is for current command, while counter register is for the next command that is going to be executed",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of the instruction register and the counter register. However, it lacks detail and real-world examples to enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "In BCD, every digit from decimal system has its binary representation, 873 would be 1000 0111 0011",
+      "grade": 4,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873, but it lacks accuracy and clarity. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "In computer science, a bus is a system of pathways for transferring data between components of a computer system. There are different types of buses, including a data bus, address bus, and control bus.",
+      "grade": 8,
+      "explanation": "The answer provides a clear understanding of a bus and its purpose. It could be improved by providing real-world examples of bus operations to enhance the explanation."
+    },
+    {
+      "answer": "cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

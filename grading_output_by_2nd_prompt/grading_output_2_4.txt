@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "Moore machines have outputs determined solely by the current state, while Mealy machines consider both the current state and input to determine their outputs.",
+      "grade": 10,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines, explaining the role of current state and input in determining outputs. It is complete and well-stated."
+    },
+    {
+      "answer": "Simpler arithmetic and single representation of zero",
+      "grade": 6,
+      "explanation": "The answer correctly mentions the simpler arithmetic and single representation of zero as advantages of two's complement over one's complement. However, it lacks clarity and explanation of the first reason. Real-world scenarios could be provided to illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "Discretization and quantization are performed to convert continuous analog sound signals into a digital format suitable for computer representation, storage, and processing. This process is necessary due to the discrete nature of digital systems, practical limitations in storage and processing, and the need for efficient transmission and storage of data.",
+      "grade": 9,
+      "explanation": "The answer provides a comprehensive explanation of discretization and quantization in sound representation, covering the conversion process and the reasons for its necessity. Real-world examples could further enhance the understanding of this concept."
+    },
+    {
+      "answer": "The purpose of ASCII codes is to represent characters in digital systems, and one ASCII code is represented using 7 bits.",
+      "grade": 8,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "Processor commands are categorized into data transfer (moving data between registers and memory), arithmetic/logic (performing mathematical and logical operations), and control instructions (managing program flow).",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "The Instruction Register (IR) holds the current instruction for execution, providing a temporary storage for opcode and relevant information. The Program Counter (PC) keeps track of the memory address for the next instruction, ensuring sequential fetching and execution.",
+      "grade": 10,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It is complete and well-stated, providing a comprehensive understanding of their roles in processor operations."
+    },
+    {
+      "answer": "Software engineering is a methodical approach to building and maintaining software. It involves phases like Requirements Gathering, Design, Coding, Testing, Deployment, and Maintenance to ensure the systematic and effective development of software systems.",
+      "grade": 9,
+      "explanation": "The answer provides a comprehensive explanation of software engineering and its phases, covering the systematic approach to software development. Real-world examples of each phase could further enhance the understanding of software engineering."
+    },
+    {
+      "answer": "BCD represents decimal numbers using 4-bit binary codes for each digit. For the number 873, the BCD representation is 1000 0111 0011.",
+      "grade": 8,
+      "explanation": "The answer correctly explains the BCD system and provides the BCD representation of the number 873. However, it could be improved by providing real-world examples of BCD representation and its significance in computing."
+    },
+    {
+      "answer": "bus serves as a communication pathway for data, addresses, and control signals among different components in a computer system, facilitating their coordinated functioning",
+      "grade": 8,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and the signals transmitted through it. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "http://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

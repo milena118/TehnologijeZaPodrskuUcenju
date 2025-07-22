@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "The operation of one machine depends solely on its current state, while the operation of the other depends on both its current state and what is at the input.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the difference between Moore's and Mealy's machines. However, it lacks clarity and detail. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "It has a unique representation of zero.",
+      "grade": 3,
+      "explanation": "The answer only partially addresses the question by mentioning one reason. It lacks a complete explanation and real-world examples to illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "This is done to collect data from the real world and translate it into the digital realm.",
+      "grade": 2,
+      "explanation": "The answer lacks a clear understanding of discretization-quantization in sound representation. Real-world examples and the significance of this process in sound representation could improve the explanation."
+    },
+    {
+      "answer": "ASCII code is used to represent characters in strings. It consists of 8 bits.",
+      "grade": 4,
+      "explanation": "The answer provides a basic understanding of ASCII codes but lacks accuracy in stating the number of bits. It could be improved by providing a more detailed explanation of the purpose of ASCII codes and the significance of the number of bits used."
+    },
+    {
+      "answer": "1. Data manipulation commands (deal with the transportation of data) 2. Control commands (the brain of everything, determining what needs to be done) 3. Arithmetic-logical commands (used for arithmetic and logical operations on data)",
+      "grade": 4,
+      "explanation": "The answer attempts to list the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register stores the currently executing command, while the counter register keeps track of which command is next to be executed.",
+      "grade": 7,
+      "explanation": "The answer provides a clear understanding of the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "Software engineering is a discipline that deals with the development and maintenance of software. The phases are: planning, design, coding, testing, deployment, and maintenance.",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of software engineering and the phases of software development. However, it lacks detail in explaining each phase. Real-world examples of activities in each phase could enhance the explanation."
+    },
+    {
+      "answer": "In the BCD system, each digit in the decimal number is represented using its binary equivalent. Therefore, 873 would be represented as 1000 0011 0111 in BCD.",
+      "grade": 3,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873, but it lacks accuracy and clarity. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "A bus is a pathway through which all components communicate, either directly or indirectly connected to it. It transmits data, addresses, and control signals.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and the signals transmitted through it. However, it could be improved by explaining the specific role of each type of signal and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 10,
+      "explanation": "The answer correctly provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

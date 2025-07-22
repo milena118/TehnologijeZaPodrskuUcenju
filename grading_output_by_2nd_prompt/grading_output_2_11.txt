@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "in Moore's machine, the current state is written for the nodes in the graph, while in Mealy's machine, both the state of the automaton and the output symbol are written for the nodes",
+      "grade": 6,
+      "explanation": "The answer provides a basic understanding of Moore's and Mealy's machines, but it lacks clarity and detail. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "because we can write zero in only one way, and addition is a simpler operation",
+      "grade": 7,
+      "explanation": "The answer correctly mentions the unique representation of zero and simplified arithmetic operations using two's complement. However, it lacks a detailed explanation and real-world examples to support the reasons."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "8 bits, its purpose is to represent one character in string",
+      "grade": 4,
+      "explanation": "The answer correctly identifies the number of bits in an ASCII code and its purpose. However, it lacks clarity and detail in explaining the purpose of ASCII codes. Real-world examples could enhance the explanation."
+    },
+    {
+      "answer": "control commands (for management) and arithmetic-logical commands (for math operations)",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "/",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "software engineering is used for the production of new software",
+      "grade": 3,
+      "explanation": "The answer lacks a comprehensive explanation of software engineering and its phases. Real-world examples and a detailed explanation of each phase could enhance the answer."
+    },
+    {
+      "answer": "1000 0111 0011",
+      "grade": 2,
+      "explanation": "The answer attempts to represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "bus is a system of pathways for transferring data, addresses, and control signals between components of a computer system, such as the processor, memory, input/output devices, and other",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "https://cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html or http",
+      "grade": 8,
+      "explanation": "The answer provides the correct URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+

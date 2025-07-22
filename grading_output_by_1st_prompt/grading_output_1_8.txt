@@ -1,0 +1,55 @@
+{
+  "answers": [
+    {
+      "answer": "In Moore's machine, the next state depends solely on the current state, while in Mealy's machine, in addition to the current state, it also depends on what is present at the system's input.",
+      "grade": 9,
+      "explanation": "The answer provides a clear and accurate differentiation between Moore's and Mealy's machines, explaining the dependency on input. Real-world examples of their applications could enhance the explanation."
+    },
+    {
+      "answer": "Unique representation of zero and simplified execution of arithmetic operations.",
+      "grade": 7,
+      "explanation": "The answer correctly mentions the unique representation of zero and the simplified execution of arithmetic operations using two's complement. Real-world scenarios could be provided to illustrate the superiority of two's complement over one's complement."
+    },
+    {
+      "answer": "Because we need to represent sound in digital form, as a discretized signal, rather than analog.",
+      "grade": 8,
+      "explanation": "The answer provides a concise explanation of why discretization-quantization of the value axis is done when representing sound in a computer. Real-world examples of sound representation could enhance the explanation."
+    },
+    {
+      "answer": "One ASCII code corresponds to one character. Initially, it used 7 bits, but later an additional one was added (I guess for parity), so now it consists of 8 bits.",
+      "grade": 7,
+      "explanation": "The answer correctly identifies the purpose of ASCII codes and the number of bits used to represent them. However, it could be improved by providing more details about the extended ASCII and its significance in modern computing."
+    },
+    {
+      "answer": "There are data commands, arithmetic-logical, and control commands.",
+      "grade": 5,
+      "explanation": "The answer provides a basic understanding of the categories of processor commands but lacks clarity and detail in explaining each category. Real-world examples of instructions in each category could enhance the explanation."
+    },
+    {
+      "answer": "Instruction register holds the currently command, while the program counter holds the address of the next instruction.",
+      "grade": 8,
+      "explanation": "The answer clearly explains the purpose of the instruction register and the counter register. It could be further improved by providing real-world examples of how these registers are used in processor operations."
+    },
+    {
+      "answer": "No answer provided",
+      "grade": 0,
+      "explanation": "No answer provided. The grade is zero."
+    },
+    {
+      "answer": "BCD is binary coded decimal system, and every digit is represented for itself. For example, 873 would be 1000 0011 0111.",
+      "grade": 3,
+      "explanation": "The answer attempts to explain the BCD system and represent the number 873 in BCD, but it is incorrect. The explanation lacks clarity and understanding of the BCD system. Real-world examples of BCD representation could help in understanding its significance."
+    },
+    {
+      "answer": "A bus is the main communication pathway among all parts of the system. It transmits data, addresses, and control signals.",
+      "grade": 7,
+      "explanation": "The answer provides a basic understanding of the purpose of a bus and mentions some of the signals transmitted through the bus. However, it could be improved by explaining the specific role of each type of bus and providing real-world examples of bus operations."
+    },
+    {
+      "answer": "http:/cs.elfak.ni.ac.rs/II_godina/spisak_studenata.html",
+      "grade": 9,
+      "explanation": "The answer provides the URL address for the given page, including the domain, directory, and page name. It is accurate and complete."
+    }
+  ]
+}
+
